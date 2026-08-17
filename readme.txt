@@ -1,2 +1,3 @@
-hello git
-feat:这是在feature分支上加的内容
+hello 这是在main上写的
+这是在main上写的第二行信息
+这是在分支feature-hello上写的信息
